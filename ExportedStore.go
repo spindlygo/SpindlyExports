@@ -1,4 +1,4 @@
-package Spindly
+package SpindlyExports
 
 type ExportedStore struct {
 	Name string
