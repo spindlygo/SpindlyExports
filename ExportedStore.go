@@ -2,7 +2,7 @@ package SpindlyExports
 
 type ExportedStore struct {
 	Name string
-	// getFn  func() string
-	// setFn  func(string)
-	// nextFn func() string
+	Get  func() string
+	Set  func(string)
+	Next func() string
 }
