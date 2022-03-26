@@ -1,3 +1,3 @@
-module github.com/spindlygo/spindly-exports
+module github.com/spindlygo/SpindlyExports
 
 go 1.17
